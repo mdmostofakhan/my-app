@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.products{
+  background-color: coral;
+  border: 3px solid blue;
+  margin: 20px; 
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.businesss{
+  background-color: teal;
+  border: 3px solid blue;
+  margin: 20px; 
+  padding: 15px;
+  border-radius: 20px;
+}
